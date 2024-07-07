@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  in_pgoress:
+  in_progress:
     output: true
     permalink: /:collection/:path
   portfolio:
