@@ -12,12 +12,12 @@ author_profile: true
 {% include base_path %}
 
 
-{% assign pubs_done = site.publications  | reverse |  where: post.collection, "publication" %}
+{% assign pubs_done = site.publications  | reverse |  where: "collection", "publication" %}
 {% for post in pubs_done %}
 	  {% include archive-single.html %}
 {% endfor %}
 
-{% assign in_progress = site.publications | reverse |  where: post.collection, "in_progress" %}
+{% assign in_progress = site.publications | reverse |  where: "collection", "in_progress" %}
 {% for post in in_progress %}
 	  {% include archive-single.html %}
 {% endfor %}
