@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can view a PDF version of my CV [here](http://asmithh.github.io/files/asmithh_cv.pdf)
+
 Education
 ======
 * Ph.D in Network Science, Northeastern University, 2025 (expected)

@@ -209,6 +209,9 @@ collections:
   in_progress:
     output: true
     permalink: /:collection/:path
+  misc:
+    output: true
+    permalink: /:collection/:path
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -256,6 +259,14 @@ defaults:
       share: true
       comments: true
     # _in_progress
+    - scope:
+      path: ""
+      type: misc
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   - scope:
       path: ""
       type: in_progress
