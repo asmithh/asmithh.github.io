@@ -7,5 +7,5 @@ venue: "Presented at the Greater Boston Digital Research & Pedagogy Symposium"
 date: 2023-04-28
 location: "Cambridge, MA, USA"
 ---
-[Slides](http://asmithh.github.io/files/pardon_our_dust.pdf)
+[link to slides](http://asmithh.github.io/files/pardon_our_dust.pdf)
 

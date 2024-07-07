@@ -7,4 +7,4 @@ venue: "PaCSS: Politics & Computational Social Science"
 date: 2022-06-18
 location: "Cambridge, MA, USA"
 ---
-[slides](http://asmithh.github.io/files/attentional_catpital_pacss_2022.pdf)
+[link to slides](http://asmithh.github.io/files/attentional_catpital_pacss_2022.pdf)

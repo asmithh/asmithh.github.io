@@ -7,4 +7,4 @@ venue: "Sunbelt"
 date: 2023-06-20
 location: "Portland, OR, USA"
 ---
-[slides](asmithh.github.io/files/asmithh_sunbelt_2023.pdf)
+[link to slides](asmithh.github.io/files/asmithh_sunbelt_2023.pdf)

@@ -8,4 +8,5 @@ date: 2021-06-20
 location: "Cambridge, MA, USA"
 ---
 Co-presenters: Layla Hashemi, Amy Magnus, and Temitayo Osinubi
-[github repo](https://github.com/lentil-soup/infograffiti)
+
+[link to github repo](https://github.com/lentil-soup/infograffiti)
