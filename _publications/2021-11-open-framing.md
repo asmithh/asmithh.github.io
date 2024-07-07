@@ -2,7 +2,7 @@
 title: "OpenFraming: Open-Sourced Tool for Computational Framing Analysis of Multilingual Data."
 collection: publications
 permalink: /publication/open-framing
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'An open-source tool to help researchers without computational backgrounds do automated frame detection'
 date: 11/2021
 venue: 'EMNLP'
 paperurl: 'http://asmithh.github.io/files/openframing.pdf'

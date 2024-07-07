@@ -2,7 +2,7 @@
 title: "Determining a Causal Link between Amplification and Triad Transitivity in a Directed Social Network.
 collection: in_progress
 permalink: /publication/determining-a-causal-link
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Ever wondered how open triads become transitive? Amplification is one way this happens; we use causal inference and a novel Twitter API hack to empirically prove this.'
 date: 2024
 venue: 'Will be submitted to PNAS Nexus'
 ---

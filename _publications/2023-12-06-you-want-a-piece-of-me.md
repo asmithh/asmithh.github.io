@@ -2,7 +2,7 @@
 title: "You Want a Piece of Me: Britney Spears as a Case Study on the Prominence of Hegemonic Tales and Subversive Stories in Online Media."
 collection: publications
 permalink: /publication/you-want-a-piece-of-me
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'What kinds of stories are told about Britney Spears online during the #FreeBritney movement?'
 date: 2023-12-06
 venue: 'First Monday'
 paperurl: 'http://asmithh.github.io/files/you_want_a_piece_of_me.pdf'
