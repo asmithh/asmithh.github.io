@@ -11,14 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% if post.collection == "publication"}
+
+{%- assign pubs_done = publications.reversed  | where: "collection", "publication" -%}
+{% for post in pubs_done %}
 	  {% include archive-single.html %}
-{% endif $}
 {% endfor %}
 
-{% for post in site.publications reversed %}
-  {% if post.collection == "in_progress"}
+{%- assign in_progress = publications.reversed  | where: "collection", "in_progress" -%}
+{% for post in in_progress %}
 	  {% include archive-single.html %}
-{% endif $}
 {% endfor %}
