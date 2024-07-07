@@ -12,6 +12,6 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.in_progresss | reverse %}
+{% for post in site.in_progresss reversed %}
 	  {% include archive-single.html %}
 {% endfor %}
