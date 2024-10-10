@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 =====
-I am a fourth-year PhD student in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University. My current work focuses on the ways that structure and agency interact in social networks to encourage mobilization. I'm also interested in making big data and computational tools usable by academics without specialized technical training. I use mixed methods, ranging from terabyte-scale datasets to autoethnography, to make sense of the world. 
+I am a PhD candidate in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University. My current work focuses on the ways that structure and agency interact in social networks to encourage mobilization. I'm also interested in making big data and computational tools usable by academics without specialized technical training. I use mixed methods, ranging from terabyte-scale datasets to autoethnography, to make sense of the world. 
 
 My dissertation work
 =====
