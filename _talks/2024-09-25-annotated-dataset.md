@@ -6,4 +6,4 @@ permalink: /talks/annotated-dataset-trans-news
 venue: "Computation and Journalism Symposium"
 date: 2024-09-25
 ---
-[link to posters](http://asmithh.github.io/files/c_and_j_smith.pdf)
+[link to slides](http://asmithh.github.io/files/c_and_j_smith.pdf)
