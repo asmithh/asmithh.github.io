@@ -2,7 +2,7 @@
 title: "Locating the Asymmetry in Information Flow between Local and National Media on Transgender Discourses"
 collection: publications
 permalink: /publications/trans-fer-entropy
-excerpt: "When it comes to coverage of transgender issues, the interplay between national news outlets and state outlets is more complicated than a simple national-to-local agenda-setting pattern."
+excerpt: "[ACCEPTED] When it comes to coverage of transgender issues, the interplay between national news outlets and state outlets is more complicated than a simple national-to-local agenda-setting pattern."
 date: 2025-03-15
 venue: Bulletin of Applied Transgender Studies
 ---
