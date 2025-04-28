@@ -6,7 +6,7 @@ excerpt: 'Ever wondered how open triads become transitive? Amplification is one 
 date: 2025-04-01
 venue: 'PNAS Nexus'
 paperurl: 'http://asmithh.github.io/files/jorts.pdf'
-citation: "Alyssa Hasegawa Smith, Jon Green, Brooke Foucault Welles, David Lazer, Emergent structures of attention on social media are driven by amplification and triad transitivity, PNAS Nexus, 2025;, pgaf106, https://doi-org/10.1093/pnasnexus/pgaf106"
+citation: "Alyssa Hasegawa Smith, Jon Green, Brooke Foucault Welles, David Lazer, Emergent structures of attention on social media are driven by amplification and triad transitivity, PNAS Nexus, 2025;, pgaf106, https://doi.org/10.1093/pnasnexus/pgaf106"
 ---
 Coauthors: Jonathan Green, Brooke Foucault Welles, David Lazer
 
