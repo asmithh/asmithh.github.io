@@ -2,11 +2,11 @@
 title: "It Has Been Handled: Hoping for Transformation in the Neoliberal University Setting"
 collection: publications
 permalink: /publications/it-has-been-handled
-excerpt: "[IN PRESS] I draw on my experiences of online bullying via TERFism to make sense of the forces that act in the neoliberal university classroom to preclude transformative learning."
-date: 2025-05-06
+excerpt: "I draw on my experiences of online bullying via TERFism to make sense of the forces that act in the neoliberal university classroom to preclude transformative learning."
+date: 2025-04-01
 paperurl: 'http://asmithh.github.io/files/it_has_been_handled.pdf'
 venue: 'The Journal of Autoethnography'
-citation: "Smith, Alyssa Hasegawa. 2025. “It Has Been Handled: Hoping for Transformation in the Neoliberal University Setting.“ Journal of Autoethnography, Volume 6 Issue 2. 
+citation: "Smith, Alyssa Hasegawa. 2025. “It Has Been Handled: Hoping for Transformation in the Neoliberal University Setting.“ Journal of Autoethnography, Volume 6 Issue 2. 2025. 
 https://doi.org/10.1525/joae.2025.6.2.243"
 ---
 
