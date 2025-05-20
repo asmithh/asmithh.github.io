@@ -2,8 +2,8 @@
 title: "A Blue Start: A large-scale pairwise and higher-order social network dataset"
 collection: in_progress
 permalink: /in_progress/a-blue-start
-excerpt: "We combine a higher-order dataset (Bluesky starter packs, which are user-created collections of accounts that other users can then follow en masse with one click) with a dyadic dataset (the Bluesky following network) in a dataset paper. The dataset will be available on SOMAR at ICPSR shortly, and we expect to have a preprint of the dataset paper ready in the next few days." 
-venue: "ArXiV Preprint (coming very soon)"
+excerpt: "We combine a higher-order dataset (Bluesky starter packs, which are user-created collections of accounts that other users can then follow en masse with one click) with a dyadic dataset (the Bluesky following network) in a dataset paper. The dataset is available on SOMAR at ICPSR, and we have a preprint of the dataset paper on arXiv." 
+venue: "arXiv Preprint"
 paperurl: https://arxiv.org/abs/2505.11608
 ---
 Coauthors: Ilya Amburg, Sagar Kumar, Nicholas Landry, Brooke Foucualt Welles
