@@ -12,4 +12,4 @@ Large-scale networks have been instrumental in shaping the way that we think abo
 
 The dataset can be found [here](https://doi.org/10.3886/kf6e-zq94). 
 
-The paper is urrently under review at *Nature Scientific Data*.
+The paper is currently under review at *Nature Scientific Data*.
