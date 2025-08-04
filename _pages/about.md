@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-About me
+About me 
 =====
-I am a PhD candidate in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University. My current work focuses on the ways that structure and agency interact in social networks to bring about collective behavior. I'm also interested in making big data and computational tools usable by academics without specialized technical training. I use mixed methods, ranging from terabyte-scale datasets to autoethnography, to make sense of the world. 
+I am a fifth-year PhD candidate in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University. I am currently supported by an NSF GRFP Fellowship (Grant No. 1938052) in Social Sciences - Computationally Intensive Research, and my advisors are [David Lazer](https://www.lazerlab.net/people/david-lazer) and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/). 
 
-My dissertation work
-=====
-The power of a network of individuals united by a common purpose is strictly greater than the sum of the power of its constituent individuals. This phenomenon, known as emergence, is a common occurrence in complex systems like the various information ecosystems studied in this dissertation. Understanding how power operates in information ecosystems requires us to move past the question of structure versus agency and instead think about emergent power: how do networks of individual actors exert power collectively in an emergent fashion? This dissertation works to reconcile structure and agency, in the specific setting of information ecosystems on social media, by characterizing the emergent patterns of power that result from the collective agency of networked individuals. It does so by examining three manifestations of emergent, collective power in information ecosystems at varying scales, using methods that range from large-scale causal inference to constructivist grounded theory. Each chapter examines a different network, where power might manifest as the ability to expel someone from a community, alter followers’ information intake over time, or change patterns of civic discourse. I demonstrate that power operates collectively and emergently, regardless of the specific setting.  
+My current work focuses on the human impacts of (and the ways humans can impact) sociotechnical systems. I look at three networked phenomena in my research -- civic discourses, attention dynamics, and information spread -- and analyze how they influence power in networked sociotechnical systems. While my research is primarily grounded in computational social science methods, I also make use of qualitative methods like semi-structured interviews (plus constructivist grounded theory approaches) and autoethnography to better understand the nuances and deeper contexts of the phenomena I observe. 
+
+**I am seeking a postdoctoral or assistant professor position for 2026; I anticipate graduating with my PhD in Spring 2025.**

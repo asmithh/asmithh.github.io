@@ -13,7 +13,8 @@ You can view a PDF version of my CV [here](http://asmithh.github.io/files/asmith
 
 Education
 ======
-* Ph.D in Network Science, Northeastern University, 2025 (expected)
+* Ph.D in Network Science, Northeastern University, 2026 (expected)
+* M.S. in Network Science, Northeastern University, 2023
 * B.S. in Humanities and Engineering with Computer Science and Comparative Media Studies, MIT, 2017
 
 Work experience
@@ -29,6 +30,8 @@ Work experience
 Skills
 ======
 * Qualitative methods
+  * Semi-structured interviews
+  * Autoethnography
 * Python data science stack
   * sklearn/numpy/scipy/pandas/nltk/etc
   * pytorch ecosystem
@@ -36,6 +39,7 @@ Skills
   * pyspark
   * SQL
   * noSQL (MongoDB, Elasticsearch)
+* Social Network Analysis / Network Science
 
 Publications
 ======
@@ -57,6 +61,7 @@ Teaching
   
 Service to Profession
 ======
+* 2025: Reviewed for NetSci, WebSci, ICWSM, and Computers in Human Behavior Reports
 * 2024: Reviewed for First Monday 
 * 2023: Reviewed for Digital Humanities Quarterly
 
