@@ -1,0 +1,7 @@
+# Job Talk Annotated Bibliography 
+Hi! If you're reading this page, welcome to my job talk's annotated bibliography! I've collected some of the literature relvant to my work for you to peruse at your leisure, along with a brief summary of each article's key takeaways. 
+
+| Citation     |  Slide Number    |     Notes      |
+| ------------- | ---- | ---------------|
+| Kossinets, Gueorgi, and Duncan J. Watts. "Origins of homophily in an evolving social network." American Journal of Sociology 115, No. 2 (2009): 405-450.| TBD | Kossinets and Watts look at an evolving social network in a large university; they use email correspondence data to determine whether two individuals are linked. They're interested in looking at the effects of induced homophily (I am like the people I'm connected to because the people I had the opportunity to connect with are similar to me) versus choice homophily (I am like the people I'm connected to because I choose to connect with people like me). Ultimately, they find that it's complicated! Induced homophily and choice homophily interact with each other over time, amplifying each other's effects and resulting in noticeable patterns of homophily.|
+| Cell 1, Row 2 | Cell 1, Row 2 | Cell 1, Row 3 |
