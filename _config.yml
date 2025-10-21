@@ -218,6 +218,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  job_talk:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -284,7 +287,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
 
 # Sass/SCSS
 sass:
