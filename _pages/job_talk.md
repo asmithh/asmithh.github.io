@@ -6,4 +6,5 @@ author_profile: true
 ---
 This is where my job talk materials live!
 
-[Annotated Bibliography](job_talk_bibliography.md)
+[Backup of Slides](https://asmithh.github.io/files/job_talk_core_slides.pdf)
+[Bibliography](job_talk_bibliography.md)
