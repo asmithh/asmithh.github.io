@@ -18,7 +18,6 @@ Hi! If you're reading this page, welcome to my job talk's bibliography! The lite
 | Granovetter, Mark S. "The strength of weak ties." American Journal of Sociology 78, No. 6 (1973): 1360-1380.| 20 |
 | Burt, Ronald S. "Structural holes and good ideas." American Journal of Sociology 110, No. 2 (2004): 349-399.| 20 | 
 | Obstfeld, David. "Social networks, the tertius iungens orientation, and involvement in innovation." Administrative Science Quarterly 50, No. 1 (2005): 100-130.| 21 |
-| DeVito, Michael A., Darren Gergle, and Jeremy Birnholtz. 2017. “‘Algorithms Ruin Everything’: #RIPTwitter, Folk Theories, and Resistance to Algorithmic Change in Social Media.” Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’17, May 2, 3163–74. https://doi.org/10.1145/3025453.3025659. | 39 | 
 | Butts, Kyle. 2021. Did2s: Two-Stage Difference-in-Differences Following Gardner (2021). Released. https://cran.r-project.org/web/packages/did2s/vignettes/Two-Stage-Difference-in-Differences.html. | A3 | 
 | Rambachan, Ashesh, and Jonathan Roth. 2023. “A More Credible Approach to Parallel Trends.” Review of Economic Studies 90 (5): 2555–91. https://doi.org/10.1093/restud/rdad018. | A8 |
 | Schwarz, Carl James, and A. Neil Arnason. "Jolly-Seber mMdels in MARK." MARK: a Gentle Introduction (eds. E. Cooch & G. White) Program, 8th edn. Available: http://www.phidot.org/software/mark/docs/book (2009). | A11 | 
