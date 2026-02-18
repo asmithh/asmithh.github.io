@@ -13,7 +13,7 @@ You can view a PDF version of my CV [here](http://asmithh.github.io/files/asmith
 
 Education
 ======
-* Ph.D in Network Science, Northeastern University, 2026 (expected)
+* Ph.D in Network Science, Northeastern University, 2026 (defending March 16, 2026)
 * M.S. in Network Science, Northeastern University, 2023
 * B.S. in Humanities and Engineering with Computer Science and Comparative Media Studies, MIT, 2017
 
