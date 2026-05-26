@@ -55,6 +55,7 @@ Talks
   
 Teaching
 ======
+* Fall 2025: Guest Lecturer for PHYS 7332 (Network Science Data)
 * Fall 2024: Co-instructor for PHYS 7332 (Network Science Data)
 * Spring 2023: Guest Lecturer for NULab Digital Humanities Project Seminar
 * Spring 2022: Guest Lecturer for SOCL 4600 (Sociology Senior Seminar)
