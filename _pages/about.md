@@ -9,7 +9,9 @@ redirect_from:
 
 About me 
 =====
-I am a fifth-year PhD candidate in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University. I am currently supported by an NSF GRFP Fellowship (Grant No. 1938052) in Social Sciences - Computationally Intensive Research, and my advisors are [David Lazer](https://www.lazerlab.net/people/david-lazer) and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/). **In Fall 2026, I will begin working as an assistant professor in the Department of Mathematics and Computer Science at the College of the Holy Cross, in Worcester, MA.**
+In Fall 2026, I will begin working as an assistant professor in the Department of Mathematics and Computer Science at the College of the Holy Cross.
+
+I earned my PhD in [Network Science](https://www.networkscienceinstitute.org/) at Northeastern University in March 2026. I was supported by an NSF GRFP Fellowship (Grant No. 1938052) in Social Sciences - Computationally Intensive Research, and my advisors were [David Lazer](https://www.lazerlab.net/people/david-lazer) and [Brooke Foucault Welles](https://brooke-welles.squarespace.com/).
 
 My current work focuses on the human impacts of (and the ways humans can impact) sociotechnical systems. I look at three networked phenomena in my research -- civic discourses, attention dynamics, and information spread -- and analyze how they influence power in networked sociotechnical systems. While my research is primarily grounded in computational social science methods, I also make use of qualitative methods like semi-structured interviews (plus constructivist grounded theory approaches) and autoethnography to better understand the nuances and deeper contexts of the phenomena I observe. 
 
